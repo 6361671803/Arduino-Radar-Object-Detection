@@ -64,3 +64,33 @@ This project demonstrates a **radar-based object detection system** using:
 | GND | GND |
 
 ## 🧾 Code Structure
+Arduino_Code/
+└── radar_arduino.ino
+Processing_Code/
+└── radar_processing.pde
+
+## ▶️ How to Run
+1. Upload Arduino code to the board.
+2. Open Serial Monitor (9600 baud) once to verify data.
+3. Close Serial Monitor.
+4. Run the Processing sketch.
+5. Move an object in front of the sensor to see detection.
+
+## 📷 Output
+Radar screen shows:
+- Green scanning line
+- Red dot for detected object
+- Angle and distance values
+
+## 🎯 Applications
+- Object detection
+- Robotics
+- Defense radar demo
+- Engineering mini project
+
+## 👨‍💻 Author
+mohammed fahad
+
+## 📜 License
+This project is open-source and free to use for educational purposes.
+
