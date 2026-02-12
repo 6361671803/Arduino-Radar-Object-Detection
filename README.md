@@ -5,7 +5,7 @@ This project demonstrates a **radar-based object detection system** using:
 - Ultrasonic Sensor (HC-SR04)
 - Servo Motor
 - Processing (for radar visualization)
-- # demo video link https://youtu.be/gPMiC5ysqVo
+- # demo video link 
 
 ## 🔧 Components Used
 - Arduino UNO / UNO SMD
